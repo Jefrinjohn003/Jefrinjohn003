@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jefrinjohn003
 - 👀 I’m interested in ...data science and analysis
 - 🌱 I’m currently learning ...python for data analysis
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...data analysis, data science
 - 📫 Reach me out in ...jefrinjohn003@gmail.com
 
 <!---
